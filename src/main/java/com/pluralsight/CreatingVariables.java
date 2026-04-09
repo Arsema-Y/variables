@@ -14,5 +14,13 @@ public static void main(String[] args) {
       int phoneNumber = 150551511;
       int ssn = 77766555;
       int zipCode = 77337;
+
+      // operations
+    double firstNumber = 5.2;
+    double secondNumber = 2.5;
+    double thirdNumber = 3.0;
+    String con = firstNumber + " " + secondNumber + " " + thirdNumber;
+    System.out.println(con);
+    System.out.println(firstNumber / secondNumber / thirdNumber);
 }
 }
